@@ -95,6 +95,23 @@
                 </div>
             </div>
         </div>
+        <div class="row mt-4">
+        <div class="col-12"><center><h2>Revolusi Industri 4.0</h2></center></div>
+            
+        </div>
+        <div class="row mt-0" >
+        <div class="col-md-offset-2 col-md-2"></div>
+            <div class="col-md-8" >
+                <!-- 16:9 aspect ratio -->
+                <div class="embed-responsive embed-responsive-4by3" style="height:75%;border-radius:10px" >
+                <iframe class="embed-responsive-item" style="padding-top:0px;border-radius:10px" src="video/rev.mp4"></iframe>
+                </div>
+            </div>
+            <div class="col-md-offset-2 col-md-2"></div>
+        </div>
+        <div class="row mb-1">
+       <div class="col-sm-12"> <center><h3>Favorite song : </h3><audio src="audio/sia.mp3" controls></audio></center></div>
+        </div>
     </div>
 
     <!-- Optional JavaScript -->
